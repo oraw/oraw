@@ -2,7 +2,7 @@
 - 👀 I’m interested in Oracle, Automations and Data Analytics.
 - 🌱 I’m currently learning PHP,CSS,JavaScript,HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 You can write me orawrk@gmail.com
 
 <!---
 oraw/oraw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
