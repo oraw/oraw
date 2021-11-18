@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oraw
-- 👀 I’m interested in Oracle, Automations and Data Analytics.
-- 🌱 I’m currently learning PHP,CSS,JavaScript,HTML
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Oracle,MS SQL, MySQL,DevOps,Automations and Data Analytics.
+- 🌱 I’m currently learning Python,PHP,CSS,JavaScript,HTML and Big Data Engeering
+- 💞️ I’m looking to collaborate on  
 - 📫 You can write me orawrk@gmail.com
 
 <!---
