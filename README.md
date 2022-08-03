@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oraw
-- 👀 I’m interested in PHP,CSS,JavaScript,HTML,C,C++,Oracle,MS SQL,MySQL,DevOps,Automations.
+- 👀 I’m interested in Python,CSS,JavaScript,HTML,C,C++,Oracle,MS SQL,MySQL,DevOps,Automations.
 - 🌱 I’m currently learning Big Data Engineering
-- 💞️ I’m looking to collaborate on Performance improvements and ChatBots 
+- 💞️ I’m looking to collaborate on ChatBots 
 - 📫 You can write me orawrk@gmail.com
 
 <!---
